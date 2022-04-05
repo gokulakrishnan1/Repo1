@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8055-15B3
+
+ Directory of C:\Users\Gokul\Desktop\Git Project\MyProject
+
+05-04-2022  19:26    <DIR>          .
+05-04-2022  19:26    <DIR>          ..
+05-04-2022  19:26                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  21,441,609,728 bytes free
